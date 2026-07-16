@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Matrix-style digital rain, rendered directly in the terminal."""
-import os
+import ois
 import random
 import shutil
 import sys
